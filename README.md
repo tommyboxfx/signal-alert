@@ -8,7 +8,7 @@ Go to [Releases](https://github.com/tommyboxfx/signal-alert/releases) and downlo
 
 ## How to use
 
-1. Download `Signal_alert_v1.2.exe`
+1. Download `Signal_alert_v1.3.exe`
 2. Run it
 3. Choose your alert sound
 4. Click **Connect**
@@ -20,4 +20,5 @@ Go to [Releases](https://github.com/tommyboxfx/signal-alert/releases) and downlo
 - Volume slider
 - Windows popup notification
 - Auto-reconnect
+- Payout filter (skips pairs below 75%)
 - Zero configuration needed
