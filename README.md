@@ -8,7 +8,7 @@ Go to [Releases](https://github.com/tommyboxfx/signal-alert/releases) and downlo
 
 ## How to use
 
-1. Download `Signal_alert_v1.4.exe`
+1. Download `Signal_alert_v1.5.exe`
 2. Run it
 3. Choose your alert sound
 4. Click **Connect**
@@ -18,7 +18,10 @@ Go to [Releases](https://github.com/tommyboxfx/signal-alert/releases) and downlo
 
 - 8 alert sounds: Siren, Ship Horn, Bell, Alarm, Triple Beep, Air Raid, Foghorn, Bugle
 - Volume slider
-- Windows popup notification
+- Custom popup with red border, bold pair name, countdown timer
+- Popup only for quality signals (WR >= 55%, Payout >= 75%)
+- Configurable popup timeout (1-5 min)
+- Log file (`signal_alert_YYYY-MM-DD.log`) persists after close
+- Test Signal button for instant testing
 - Auto-reconnect
-- Payout filter (skips pairs below 75%)
 - Zero configuration needed
